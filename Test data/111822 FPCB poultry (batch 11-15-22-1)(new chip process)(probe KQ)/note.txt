@@ -1,0 +1,21 @@
+Chamber: 305
+
+Device:  
+ * White LED/ Concave lens/ 0.125mA
+ * FW: 2.1.0.6 (Dual pixel photodiode)
+ * Au etch side as white card
+
+Material
+ * 41411 on gold etch side(batch 11-15-22-1)
+ * chip cover photoresist before dicing
+ * #5021 chip 11 etch Au
+   #5051 chip 12 etch Au
+   #5121 chip 13 etch Au
+   #5135 chip 14 etch Au
+   #5155 chip 15 flat Au
+   #5215 chip 16 flat Au
+   #5426 chip 17 flat Au
+   #5440 chip 18 flat Au
+
+  
+Report

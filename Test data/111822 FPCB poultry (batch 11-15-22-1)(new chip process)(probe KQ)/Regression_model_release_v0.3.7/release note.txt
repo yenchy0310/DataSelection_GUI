@@ -1,0 +1,8 @@
+## update information
+2022.08.30
+
+1. adjust y-axis range of a subplot 
+
+
+
+
